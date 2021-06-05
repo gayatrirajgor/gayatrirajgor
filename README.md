@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gayatrirajgor
-- 🌱 I’m currently in my final year of university studying Software Engineering🎓
-- 💞️ I’m looking to collaborate on fun projects that challenge me
+- 🎓 I’m currently in my final year of university studying Software Engineering🎓
+- 💻 I’m looking to collaborate on fun projects that challenge me
 - 📫 How to reach me: https://www.linkedin.com/in/gayatrirajgor/ 
 
 <!---
