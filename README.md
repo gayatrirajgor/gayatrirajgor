@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gayatri!
+# 👋 Hi, I’m Gayatri! ![](https://komarev.com/ghpvc/?username=gayatrirajgor&color=blueviolet&style=flat-square)
 + 🎓 I’m a recent BEng Honours graduate in **Software Engineering** 
 + 💻 I’m looking to collaborate on fun projects that challenge me
 + 📫 How to reach me: https://www.linkedin.com/in/gayatrirajgor/ 
