@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Gayatri!
-+ 🎓 I’m currently in my final year of university studying **Software Engineering** 
++ 🎓 I’m a recent BEng Honours graduate in **Software Engineering** 
 + 💻 I’m looking to collaborate on fun projects that challenge me
 + 📫 How to reach me: https://www.linkedin.com/in/gayatrirajgor/ 
 
