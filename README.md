@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri</h1>
 <h3 align="center">BEng (Hons) Software Engineering Graduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>
 
 - 🌱 I’m currently learning **Codecademy's Full Stack Engineer course**
 
