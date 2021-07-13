@@ -29,4 +29,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrirajgor&show_icons=true&locale=en&theme=radical" alt="gayatrirajgor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrirajgor&langs_count=10&show_icons=true&locale=en&theme=radical" alt="gayatrirajgor" /></p>
