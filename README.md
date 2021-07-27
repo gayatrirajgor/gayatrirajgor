@@ -1,7 +1,7 @@
 <h1 align="center">Hello fellow < Developers />, I'm Gayatri <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="center">Thank you for taking the time to view my Github profile. 😄</h3><h3 align="center">I am a recent BEng (Hons) Software Engineering Graduate 🎓</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>
+<!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>--->
 
 - 🌱 I’m currently learning **Codecademy's Full Stack Engineer course** 📚
 
@@ -22,7 +22,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@gayatrir21&layout=compact"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@gayatrir21&layout=compact&theme=radical"/></a>
 
 <h2 align="left">My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatrirajgor&show_icons=true&locale=en&theme=radical" alt="gayatrirajgor" /></p>
