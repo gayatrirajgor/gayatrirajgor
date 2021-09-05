@@ -3,7 +3,7 @@
 
 <!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>--->
 
-- 🌱 I’m currently taking part in General Academy’s **Software Engineering Immersive Course** 📚
+- 🌱 I’m currently taking part in General Assembly’s **Software Engineering Immersive Course** 📚
 
 - 👯 I’m looking to collaborate on **fun projects**
 
