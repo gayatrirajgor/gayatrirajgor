@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellow < Developers />, I'm Gayatri <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h1 align="center">Hello fellow < Developers /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="center">Thank you for taking the time to view my Github profile. 😄</h3><h3 align="center">I am a Software Engineering Student at General Assembly & a recent gradute in BEng (Hons) Software Engineering 🎓</h3>
 
 <!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>--->
