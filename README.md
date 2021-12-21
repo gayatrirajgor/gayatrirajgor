@@ -3,13 +3,11 @@
 
 <!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>--->
 
-- 🌱 I’m currently taking part in General Assembly’s **Software Engineering Immersive Course** 📚
-
-- 👯 I’m looking to collaborate on **fun projects**
+- 🌱 I’m currently improving my programming skills on Codecademy
 
 - 👨‍💻 All of my projects are available [here](https://github.com/gayatrirajgor?tab=repositories)
 
-- 📫 How to [reach me](https://www.linkedin.com/in/gayatrirajgor/)
+- 📫 How to reach me: [<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> gayatrirajgor](https://www.linkedin.com/in/gayatrirajgor/)
 
 <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
@@ -29,4 +27,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></p> -->
 
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrirajgor&langs_count=10&show_icons=true&locale=en&theme=radical" alt="gayatrirajgor" /></p> --->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrirajgor&langs_count=10&show_icons=true&locale=en&theme=radical&layout=compact" alt="gayatrirajgor" /></p> -->
