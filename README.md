@@ -24,4 +24,3 @@
 <h2>My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h2>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gayatrirajgor&show_icons=true&locale=en&theme=radical&count_private=true&hide=stars" alt="gayatrirajgor" /></p>
 
-![](https://github.com/gayatrirajgor/github-stats/blob/master/generated/overview.svg)
