@@ -1,10 +1,12 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=gayatrirajgor&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrirajgor" /> </p> -->
 <h1 align="center">Hello fellow < Developers /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h3 align="center">Thank you for taking the time to view my Github profile. 😄</h3><h3 align="center"> A recent graduate in BEng (Hons) Software Engineering & General Assembly's Software Engineering Immersive course 🎓 </h3>
+<h3 align="center">Thank you for taking the time to view my Github profile. 😄</h3><h3 align="center"> Junior Developer 👩🏽‍💻 </h3>
 
 <!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>--->
 
-- 🌱 I’m currently improving my programming skills on Codecademy
+- 👩🏽‍💻 I’m currently working as a Junior Developer at ITV
+
+- 🌱 Teaching the next generation of women to code
 
 - 👨‍💻 All of my projects are available [here](https://github.com/gayatrirajgor?tab=repositories)
 
