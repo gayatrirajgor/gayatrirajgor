@@ -6,7 +6,9 @@
 
 - 👩🏽‍💻 I’m currently working as a Junior Developer at ITV
 
-- 🌱 Teaching the next generation of women to code
+- 🌱 I'm currently learning C#
+  
+- 🌱 And teaching the next generation of women to code
 
 - 👨‍💻 All of my projects are available [here](https://github.com/gayatrirajgor?tab=repositories)
 
