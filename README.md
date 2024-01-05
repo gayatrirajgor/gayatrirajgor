@@ -29,5 +29,12 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gayatrirajgor&show_icons=true&locale=en&theme=radical&count_private=true&hide=stars&include_all_commits" alt="gayatrirajgor" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   26 mins         ███████████████▒░░░░░░░░░   61.17 %
+HTML         16 mins         █████████▓░░░░░░░░░░░░░░░   38.79 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
