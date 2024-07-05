@@ -4,9 +4,7 @@
 
 <!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>--->
 
-- 👩🏽‍💻 I’m currently working as a Junior Developer at ITV
-
-- 🌱 I'm currently learning C#
+- 👩🏽‍💻 I’m currently working as a Developer at ITV
   
 - 🌱 And teaching the next generation of women to code
 
