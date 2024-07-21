@@ -29,9 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 mins          ██████████████████████▓░░   90.28 %
-HTML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-CSS          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+JavaScript   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
