@@ -1,6 +1,6 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=gayatrirajgor&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrirajgor" /> </p> -->
 <h1 align="center">Hello fellow < Developers /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h3 align="center">Thank you for taking the time to view my Github profile. 😄</h3><h3 align="center"> Junior Developer 👩🏽‍💻 </h3>
+<h3 align="center">Thank you for taking the time to view my Github profile. 😄</h3><h3 align="center"> Full-Stack Developer 👩🏽‍💻 </h3>
 
 <!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrirajgor&theme=radical" alt="gayatrirajgor" /></a></p>--->
 
